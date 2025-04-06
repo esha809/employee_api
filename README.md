@@ -1,1 +1,1 @@
-# employee_api
+The **Employee API** project is a Django-based RESTful API that manages employee data, allowing users to perform CRUD operations. It efficiently handles employee details like name, role, and department through Django REST Framework.
